@@ -5,5 +5,5 @@ it doesnt save current login information to a file, so when app is closed, usern
 to run it
 	open directory these files are in, in the terminal, then \n
 
-	javac RunThisClass.java\n
+	javac RunThisClass.java
 	java RunThisClass
