@@ -1,4 +1,4 @@
-#This is a calculator/ converter with a login page made in java
+# This is a calculator/ converter with a login page made in java
 
 it doesnt save current login information to a file, so when app is closed, username and password are gone
 
